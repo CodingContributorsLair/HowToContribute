@@ -1,4 +1,4 @@
-# How to contribute:
+# How to contribute to our repositories:
 
 ### 1. Fork the repository :
 
