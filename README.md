@@ -71,7 +71,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
+
+    <td align="center"><a href="https://codingspecies.github.io/MeAndMyApps/"><img src="https://avatars.githubusercontent.com/u/70807500?v=4?s=100" width="100px;" alt=""/><br /><sub><b>CodingSpecies</b></sub></a><br /><a href="#content-CodingSpecies" title="Content">🖋</a> <a href="https://github.com/CodingContributorsLair/HowToContribute/commits?author=CodingSpecies" title="Documentation">📖</a></td>
+
     <td align="center"><a href="https://github.com/AvidCoder101"><img src="https://avatars.githubusercontent.com/u/70807684?v=4?s=100" width="100px;" alt=""/><br /><sub><b>AvidCoder</b></sub></a><br /><a href="#content-AvidCoder101" title="Content">🖋</a></td>
+
   </tr>
 </table>
 
