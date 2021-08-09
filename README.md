@@ -31,7 +31,8 @@
 
 #### Once you have made your changes, change your directory to repo : 
 
-![image of cd](https://user-images.githubusercontent.com/70807684/126148776-097254a9-45c8-47f3-8c8e-860810f42c03.png)
+![image](https://user-images.githubusercontent.com/70807684/128705003-66d04d60-4b68-4a8b-9dde-2075aa871516.png)
+
 
 #### And then add all :
 
